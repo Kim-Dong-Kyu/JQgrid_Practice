@@ -51,7 +51,7 @@
                     <p class="lead mb-5">JQgrid를 각 세부 내용으로 분석하여 알아보는 페이지 입니다. 코드 내용은 github, blog 에서 확인 할 수 있습니다. </p>
                     <div class="social-icons">
                         <a class="social-icon" href="https://dkkim2318.tistory.com/"><i class="fab fa-linkedin-in"></i></a>
-                        <a class="social-icon" href="https://github.com/Kim-Dong-Kyu"><i class="fab fa-github"></i></a>
+                        <a class="social-icon" href="https://github.com/Kim-Dong-Kyu/JQgrid_Practice"><i class="fab fa-github"></i></a>
                  
                     </div>
                 </div>
